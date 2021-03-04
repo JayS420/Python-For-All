@@ -2,22 +2,22 @@
 Topics will be covered
 
 📕 Beginner Python Programming 📕
-Variables & Data Types
-Basic Operations & Input
-Conditions
-If-elif-else
-Chained Conditionals & Nested Statements
-For Loops
-While Loops
-List's and Tuples
-Iteration by Item
-String Method
-Slice Operation
-Functions
-How to read a text file
-Writing to a Text File
-Using .count() and .find()
-Introduction to Modeular Programming
-Optional Parameters
-Try and Except(Error Handling)
-Global VS Local Variable
+1. Variables & Data Types
+2. Basic Operations & Input
+3. Conditions
+4. If-elif-else
+5. Chained Conditionals & Nested Statements
+6. For Loops
+7. While Loops
+8. List's and Tuples
+9. Iteration by Item
+10. String Method
+11.Slice Operation
+12. Functions
+13. How to read a text file
+14. Writing to a Text File
+15. Using .count() and .find()
+16. Introduction to Modeular Programming
+17. Optional Parameters
+18. Try and Except(Error Handling)
+19. Global VS Local Variable
