@@ -21,3 +21,12 @@ Topics will be covered
 17. Optional Parameters
 18. Try and Except(Error Handling)
 19. Global VS Local Variable
+
+📗 Object Oriented Programming 📗
+1. Introductions to Objects
+2. Creating classes
+3. Inheritance
+4. Overloading Methods
+5. Static Methods and Class Methods
+6. Private and Public Classes
+
