@@ -30,3 +30,13 @@ Topics will be covered
 5. Static Methods and Class Methods
 6. Private and Public Classes
 
+📘 Intermediate Python 📘
+1. Optional Parameter
+2. Static and Class Method
+3. Map Function
+4. Filter Function
+5. Lambda Function
+6. Introductions to collections
+7. Named Tuple
+8. Deque
+
